@@ -18,6 +18,19 @@
   },
   "homepage": "https://github.com/domin191013/MyBasketballApes#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "cai": "^1.0.2",
+    "chai-as-promised": "^7.1.1",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.4",
     "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "dotenv": "^16.0.0"
   }
 }
